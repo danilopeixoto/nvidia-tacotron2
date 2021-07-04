@@ -4,4 +4,7 @@
 !.editorconfig
 !*.md
 
+!notebooks/
+
+notebooks/*
 !notebooks/*.ipynb
